@@ -2,4 +2,4 @@ blank_issues_enabled: true
 contact_links:
   - name: General support
     url: https://chat.stackoverflow.com/rooms/208985/bad-stack-overflow-reviews
-    about: Don't use this repo to discuss review suspensions; use the chatroom instead.
+    about: Don't use this repo to discuss review suspensions; use the chatroom instead. Issues not asking about meta will be closed and locked.
