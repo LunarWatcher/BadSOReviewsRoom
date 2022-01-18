@@ -7,10 +7,12 @@ This repo contains various meta information for [this room on chat.SO](https://c
 Requests can include the actual and expected actions in the queue, but don't have to. If you decide to include expected and actual reviews, do it in this format (without brackets):
 
 ```
-[actual, bad review] [expected review] [link to review]
+[optional description; tag wiki plagiarism can also contain a source here] [review link]
 ```
 
-The review doesn't have to overall have been mishandled, though some discression can and will be applied to certain reviews. This does also include tag wiki plagiarism, but to a substantially lesser degree.
+(Also note that brackets group together words here, and aren't meant to reflect syntax of optional arguments on their own. Optional arguments explicitly say they're optional, so there's no need to guess what's needed from the syntax)
+
+The review doesn't have to overall have been mishandled, though some discression can and will be applied to certain reviews. This does also include tag wiki plagiarism, but speaking for myself, to a substantially lesser degree.
 
 ### Current focus
 
