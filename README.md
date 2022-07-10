@@ -2,6 +2,10 @@
 
 This repo contains various meta information for [this room on chat.SO](https://chat.stackoverflow.com/rooms/208985/bad-stack-overflow-reviews).
 
+## For reviewers
+
+* For a list of review resources, see [Resources.md](Resources.md)
+
 ## Requests
 
 Requests can include the actual and expected actions in the queue, but don't have to. If you decide to include expected and actual reviews, do it in this format (without brackets):
